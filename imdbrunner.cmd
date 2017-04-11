@@ -1,4 +1,4 @@
 @echo off
 cls
-python2 <Address of Python File> %*
+py <Address of Python File> %*
 pause
